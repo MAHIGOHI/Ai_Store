@@ -1,146 +1,106 @@
 {
   "jobs": [
-    {
-      "tag": "Remote",
-      "title": "AI Research Engineer",
-      "provider": "OpenAI",
-      "price": "Varies",
-      "url": "https://openai.com/careers"
-    },
-    {
-      "tag": "Remote",
-      "title": "Member of Technical Staff",
-      "provider": "Anthropic",
-      "price": "Varies",
-      "url": "https://www.anthropic.com/careers"
-    },
-    {
-      "tag": "Global",
-      "title": "Machine Learning Engineer",
-      "provider": "Hugging Face",
-      "price": "Varies",
-      "url": "https://huggingface.co/careers"
-    },
-    {
-      "tag": "Remote",
-      "title": "AI Training Expert",
-      "provider": "Scale AI",
-      "price": "Varies",
-      "url": "https://scale.com/careers"
-    },
-    {
-      "tag": "Remote",
-      "title": "Machine Learning Researcher",
-      "provider": "Cohere",
-      "price": "Varies",
-      "url": "https://cohere.com/careers"
-    },
-    {
-      "tag": "Remote",
-      "title": "AI Researcher",
-      "provider": "Midjourney",
-      "price": "Varies",
-      "url": "https://www.midjourney.com/careers"
-    },
-    {
-      "tag": "Online",
-      "title": "AI Developer",
-      "provider": "Turing",
-      "price": "Varies",
-      "url": "https://www.turing.com/jobs"
-    },
-    {
-      "tag": "Remote",
-      "title": "AI Trainer",
-      "provider": "Outlier AI",
-      "price": "Varies",
-      "url": "https://outlier.ai/"
-    },
-    {
-      "tag": "Remote",
-      "title": "Data Scientist",
-      "provider": "Databricks",
-      "price": "Varies",
-      "url": "https://www.databricks.com/company/careers"
-    },
-    {
-      "tag": "Remote",
-      "title": "AI Software Engineer",
-      "provider": "Perplexity",
-      "price": "Varies",
-      "url": "https://www.perplexity.ai/careers"
-    }
+    { "tag": "Remote", "title": "AI Research Engineer", "provider": "OpenAI", "price": "Varies", "url": "https://openai.com/careers" },
+    { "tag": "Remote", "title": "Member of Technical Staff", "provider": "Anthropic", "price": "Varies", "url": "https://www.anthropic.com/careers" },
+    { "tag": "Global", "title": "Machine Learning Engineer", "provider": "Hugging Face", "price": "Varies", "url": "https://huggingface.co/careers" },
+    { "tag": "Remote", "title": "AI Training Expert", "provider": "Scale AI", "price": "Varies", "url": "https://scale.com/careers" },
+    { "tag": "Remote", "title": "Machine Learning Researcher", "provider": "Cohere", "price": "Varies", "url": "https://cohere.com/careers" },
+    { "tag": "Remote", "title": "AI Researcher", "provider": "Midjourney", "price": "Varies", "url": "https://www.midjourney.com/careers" },
+    { "tag": "Online", "title": "AI Developer", "provider": "Turing", "price": "Varies", "url": "https://www.turing.com/jobs" },
+    { "tag": "Remote", "title": "AI Trainer", "provider": "Outlier AI", "price": "Varies", "url": "https://outlier.ai/" },
+    { "tag": "Remote", "title": "Data Scientist", "provider": "Databricks", "price": "Varies", "url": "https://www.databricks.com/company/careers" },
+    { "tag": "Remote", "title": "AI Software Engineer", "provider": "Perplexity", "price": "Varies", "url": "https://www.perplexity.ai/careers" },
+    { "tag": "Remote", "title": "Deep Learning Engineer", "provider": "DeepMind", "price": "Varies", "url": "https://deepmind.google/about/careers/" },
+    { "tag": "Global", "title": "AI Infrastructure Engineer", "provider": "NVIDIA", "price": "Varies", "url": "https://www.nvidia.com/en-us/about/careers/" },
+    { "tag": "Remote", "title": "Senior AI Scientist", "provider": "Microsoft", "price": "Varies", "url": "https://careers.microsoft.com/" },
+    { "tag": "Remote", "title": "Applied Scientist - Generative AI", "provider": "Amazon", "price": "Varies", "url": "https://www.amazon.jobs/" },
+    { "tag": "Remote", "title": "Generative AI Engineer", "provider": "Meta", "price": "Varies", "url": "https://www.metacareers.com/" },
+    { "tag": "Remote", "title": "Machine Learning Software Engineer", "provider": "Google", "price": "Varies", "url": "https://careers.google.com/" },
+    { "tag": "Remote", "title": "AI/ML Engineer", "provider": "Apple", "price": "Varies", "url": "https://jobs.apple.com/" },
+    { "tag": "Remote", "title": "Autopilot AI Engineer", "provider": "Tesla", "price": "Varies", "url": "https://www.tesla.com/careers" },
+    { "tag": "Remote", "title": "Machine Learning Researcher", "provider": "xAI", "price": "Varies", "url": "https://x.ai/careers" },
+    { "tag": "Remote", "title": "Founding AI Engineer", "provider": "Adept AI", "price": "Varies", "url": "https://www.adept.ai/careers" },
+    { "tag": "Remote", "title": "AI Character Developer", "provider": "Character.ai", "price": "Varies", "url": "https://careers.character.ai/" },
+    { "tag": "Remote", "title": "Computer Vision Engineer", "provider": "Stability AI", "price": "Varies", "url": "https://stability.ai/careers" },
+    { "tag": "Remote", "title": "Video Generation AI Researcher", "provider": "Runway", "price": "Varies", "url": "https://runwayml.com/careers/" },
+    { "tag": "Remote", "title": "NLP Engineer", "provider": "Jasper", "price": "Varies", "url": "https://www.jasper.ai/careers" },
+    { "tag": "Remote", "title": "Prompt Engineer", "provider": "Copy.ai", "price": "Varies", "url": "https://www.copy.ai/careers" },
+    { "tag": "Remote", "title": "Conversational AI Scientist", "provider": "Inflection AI", "price": "Varies", "url": "https://inflection.ai/careers" },
+    { "tag": "Remote", "title": "LLM Optimization Engineer", "provider": "Mistral AI", "price": "Varies", "url": "https://mistral.ai/careers/" },
+    { "tag": "Remote", "title": "Audio Deep Learning Engineer", "provider": "ElevenLabs", "price": "Varies", "url": "https://elevenlabs.io/careers" },
+    { "tag": "Remote", "title": "Speech Recognition Engineer", "provider": "AssemblyAI", "price": "Varies", "url": "https://www.assemblyai.com/careers" },
+    { "tag": "Remote", "title": "Vector Database Engineer", "provider": "Pinecone", "price": "Varies", "url": "https://www.pinecone.io/careers/" },
+    { "tag": "Remote", "title": "Core ML Engineer", "provider": "Weaviate", "price": "Varies", "url": "https://weaviate.io/company/careers" },
+    { "tag": "Remote", "title": "Software Engineer, AI Agents", "provider": "LangChain", "price": "Varies", "url": "https://jobs.lever.co/langchain" },
+    { "tag": "Remote", "title": "AI Framework Developer", "provider": "LlamaIndex", "price": "Varies", "url": "https://www.llamaindex.ai/careers" },
+    { "tag": "Remote", "title": "MLOps Engineer", "provider": "Weights & Biases", "price": "Varies", "url": "https://wandb.ai/site/careers" },
+    { "tag": "Remote", "title": "Data Labeling Engineer", "provider": "Snorkel AI", "price": "Varies", "url": "https://snorkel.ai/careers/" },
+    { "tag": "Remote", "title": "Machine Learning Applied Scientist", "provider": "Clarifai", "price": "Varies", "url": "https://www.clarifai.com/company/careers" },
+    { "tag": "Global", "title": "AI Customer Success Engineer", "provider": "DataRobot", "price": "Varies", "url": "https://www.datarobot.com/careers/" },
+    { "tag": "Remote", "title": "GenAI Architect", "provider": "H2O.ai", "price": "Varies", "url": "https://h2o.ai/company/careers/" },
+    { "tag": "Remote", "title": "AI Solutions Engineer", "provider": "Dataiku", "price": "Varies", "url": "https://www.dataiku.com/company/careers/" },
+    { "tag": "Remote", "title": "Computational Linguist", "provider": "Grammarly", "price": "Varies", "url": "https://www.grammarly.com/jobs" },
+    { "tag": "Online", "title": "AI Product Engineer", "provider": "Notion", "price": "Varies", "url": "https://www.notion.so/careers" },
+    { "tag": "Global", "title": "Machine Learning Engineer - Magic Studio", "provider": "Canva", "price": "Varies", "url": "https://www.lifeatcanva.com/en/jobs/" },
+    { "tag": "Remote", "title": "Generative AI Research Scientist", "provider": "Adobe", "price": "Varies", "url": "https://careers.adobe.com/" },
+    { "tag": "Remote", "title": "Software Engineer, Copilot", "provider": "GitHub", "price": "Varies", "url": "https://github.com/about/careers" },
+    { "tag": "Remote", "title": "Machine Learning Systems Engineer", "provider": "Stripe", "price": "Varies", "url": "https://stripe.com/jobs" },
+    { "tag": "Remote", "title": "Applied Machine Learning Specialist", "provider": "Airbnb", "price": "Varies", "url": "https://careers.airbnb.com/" },
+    { "tag": "Remote", "title": "AI/ML Algorithm Developer", "provider": "Uber", "price": "Varies", "url": "https://www.uber.com/us/en/careers/" },
+    { "tag": "Global", "title": "Personalization AI Researcher", "provider": "Spotify", "price": "Varies", "url": "https://lifeatspotify.com/" },
+    { "tag": "Remote", "title": "Algorithm Engineer", "provider": "Netflix", "price": "Varies", "url": "https://jobs.netflix.com/" },
+    { "tag": "Remote", "title": "AI Content Safety Specialist", "provider": "Roblox", "price": "Varies", "url": "https://careers.roblox.com/" }
   ],
   "courses": [
-    {
-      "tag": "Beginner",
-      "title": "AI for Everyone",
-      "provider": "DeepLearning.AI",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/learn/ai-for-everyone"
-    },
-    {
-      "tag": "Advanced",
-      "title": "Machine Learning Specialization",
-      "provider": "Stanford University",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/specializations/machine-learning-introduction"
-    },
-    {
-      "tag": "University",
-      "title": "CS50's Introduction to Artificial Intelligence with Python",
-      "provider": "Harvard University",
-      "price": "FREE",
-      "url": "https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python"
-    },
-    {
-      "tag": "Professional",
-      "title": "Google AI Essentials",
-      "provider": "Google",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/professional-certificates/google-ai-essentials"
-    },
-    {
-      "tag": "Beginner",
-      "title": "Prompt Engineering for ChatGPT",
-      "provider": "Vanderbilt University",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/learn/prompt-engineering"
-    },
-    {
-      "tag": "Professional",
-      "title": "IBM Applied AI Professional Certificate",
-      "provider": "IBM",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
-    },
-    {
-      "tag": "Advanced",
-      "title": "Deep Learning Specialization",
-      "provider": "DeepLearning.AI",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/specializations/deep-learning"
-    },
-    {
-      "tag": "Paid",
-      "title": "Artificial Intelligence A-Z",
-      "provider": "Udemy",
-      "price": "Subscription",
-      "url": "https://www.udemy.com/course/artificial-intelligence-az/"
-    },
-    {
-      "tag": "Free",
-      "title": "Introduction to Generative AI",
-      "provider": "Google Cloud",
-      "price": "FREE",
-      "url": "https://www.cloudskillsboost.google/course_templates/536"
-    },
-    {
-      "tag": "Advanced",
-      "title": "Generative AI with Large Language Models",
-      "provider": "AWS",
-      "price": "Subscription",
-      "url": "https://www.coursera.org/learn/generative-ai-with-llms"
-    }
+    { "tag": "Free", "title": "Machine Learning Crash Course", "provider": "Google", "price": "FREE", "url": "https://developers.google.com/machine-learning/crash-course" },
+    { "tag": "Free", "title": "Intro to Artificial Intelligence", "provider": "Kaggle", "price": "FREE", "url": "https://www.kaggle.com/learn/intro-to-machine-learning" },
+    { "tag": "Free", "title": "Introduction to Generative AI", "provider": "Google Cloud", "price": "FREE", "url": "https://www.cloudskillsboost.google/course_templates/536" },
+    { "tag": "Free", "title": "Generative AI for Beginners", "provider": "Microsoft", "price": "FREE", "url": "https://microsoft.github.io/generative-ai-for-beginners/" },
+    { "tag": "Free", "title": "Practical Deep Learning for Coders", "provider": "Fast.ai", "price": "FREE", "url": "https://course.fast.ai/" },
+    { "tag": "Free", "title": "Intro to Deep Learning", "provider": "MIT", "price": "FREE", "url": "http://introtodeeplearning.com/" },
+    { "tag": "Free", "title": "Machine Learning with Python", "provider": "freeCodeCamp", "price": "FREE", "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/" },
+    { "tag": "Free", "title": "Elements of AI", "provider": "MinnaLearn & University of Helsinki", "price": "FREE", "url": "https://www.elementsofai.com/" },
+    { "tag": "Free", "title": "Hugging Face NLP Course", "provider": "Hugging Face", "price": "FREE", "url": "https://huggingface.co/learn/nlp-course/chapter1/1" },
+    { "tag": "Free", "title": "Databricks Generative AI Fundamentals", "provider": "Databricks", "price": "FREE", "url": "https://customer-academy.databricks.com/en/course/generative-ai-fundamentals" },
+    { "tag": "University", "title": "CS50's Introduction to Artificial Intelligence with Python", "provider": "Harvard University", "price": "FREE", "url": "https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python" },
+    { "tag": "Free", "title": "Deep Learning Tutorial", "provider": "Kaggle", "price": "FREE", "url": "https://www.kaggle.com/learn/intro-to-deep-learning" },
+    { "tag": "Free", "title": "Computer Vision", "provider": "Kaggle", "price": "FREE", "url": "https://www.kaggle.com/learn/computer-vision" },
+    { "tag": "Free", "title": "Time Series Forecasting", "provider": "Kaggle", "price": "FREE", "url": "https://www.kaggle.com/learn/time-series" },
+    { "tag": "Free", "title": "AI Ethics", "provider": "Kaggle", "price": "FREE", "url": "https://www.kaggle.com/learn/ai-ethics" },
+    { "tag": "Free", "title": "Introduction to Large Language Models", "provider": "Google Cloud", "price": "FREE", "url": "https://www.cloudskillsboost.google/course_templates/539" },
+    { "tag": "Free", "title": "Introduction to Image Generation", "provider": "Google Cloud", "price": "FREE", "url": "https://www.cloudskillsboost.google/course_templates/541" },
+    { "tag": "Free", "title": "Introduction to Responsible AI", "provider": "Google Cloud", "price": "FREE", "url": "https://www.cloudskillsboost.google/course_templates/554" },
+    { "tag": "Free", "title": "Azure AI Fundamentals", "provider": "Microsoft", "price": "FREE", "url": "https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/" },
+    { "tag": "Free", "title": "AWS Machine Learning Foundations", "provider": "Udacity", "price": "FREE", "url": "https://www.udacity.com/course/aws-machine-learning-foundations--ud090" },
+    { "tag": "Free", "title": "Intro to Artificial Intelligence", "provider": "Udacity", "price": "FREE", "url": "https://www.udacity.com/course/intro-to-artificial-intelligence--cs271" },
+    { "tag": "Free", "title": "Machine Learning", "provider": "Georgia Tech", "price": "FREE", "url": "https://www.udacity.com/course/machine-learning--ud262" },
+    { "tag": "Beginner", "title": "AI for Everyone", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/learn/ai-for-everyone" },
+    { "tag": "Beginner", "title": "Prompt Engineering for ChatGPT", "provider": "Vanderbilt University", "price": "Subscription", "url": "https://www.coursera.org/learn/prompt-engineering" },
+    { "tag": "Advanced", "title": "Machine Learning Specialization", "provider": "Stanford University", "price": "Subscription", "url": "https://www.coursera.org/specializations/machine-learning-introduction" },
+    { "tag": "Advanced", "title": "Deep Learning Specialization", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/specializations/deep-learning" },
+    { "tag": "Professional", "title": "Google AI Essentials", "provider": "Google", "price": "Subscription", "url": "https://www.coursera.org/professional-certificates/google-ai-essentials" },
+    { "tag": "Professional", "title": "IBM Applied AI Professional Certificate", "provider": "IBM", "price": "Subscription", "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai" },
+    { "tag": "Advanced", "title": "Generative AI with Large Language Models", "provider": "AWS", "price": "Subscription", "url": "https://www.coursera.org/learn/generative-ai-with-llms" },
+    { "tag": "Beginner", "title": "Generative AI for Everyone", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/learn/generative-ai-for-everyone" },
+    { "tag": "Beginner", "title": "IBM AI Foundations for Business", "provider": "IBM", "price": "Subscription", "url": "https://www.coursera.org/specializations/ibm-ai-foundations-for-business" },
+    { "tag": "Professional", "title": "AI for Medical Diagnosis", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/learn/ai-for-medical-diagnosis" },
+    { "tag": "Advanced", "title": "Natural Language Processing Specialization", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/specializations/natural-language-processing" },
+    { "tag": "Advanced", "title": "TensorFlow Data and Deployment Specialization", "provider": "DeepLearning.AI", "price": "Subscription", "url": "https://www.coursera.org/specializations/tensorflow-data-and-deployment" },
+    { "tag": "University", "title": "AI for Business Specialization", "provider": "University of Pennsylvania", "price": "Subscription", "url": "https://www.coursera.org/specializations/ai-for-business-wharton" },
+    { "tag": "University", "title": "Mathematics for Machine Learning", "provider": "Imperial College London", "price": "Subscription", "url": "https://www.coursera.org/specializations/mathematics-machine-learning" },
+    { "tag": "Beginner", "title": "Generative AI Fundamentals", "provider": "IBM", "price": "Subscription", "url": "https://www.coursera.org/learn/generative-ai-fundamentals" },
+    { "tag": "Advanced", "title": "ChatGPT Advanced Data Analysis", "provider": "Vanderbilt University", "price": "Subscription", "url": "https://www.coursera.org/learn/chatgpt-advanced-data-analysis" },
+    { "tag": "University", "title": "Applied Machine Learning in Python", "provider": "University of Michigan", "price": "Subscription", "url": "https://www.coursera.org/learn/python-machine-learning" },
+    { "tag": "University", "title": "Machine Learning Foundations: A Case Study Approach", "provider": "University of Washington", "price": "Subscription", "url": "https://www.coursera.org/learn/machine-learning" },
+    { "tag": "Free", "title": "Data Science: Machine Learning", "provider": "Harvard University", "price": "FREE", "url": "https://www.edx.org/course/data-science-machine-learning" },
+    { "tag": "Free", "title": "Artificial Intelligence (AI)", "provider": "Columbia University", "price": "FREE", "url": "https://www.edx.org/course/artificial-intelligence-ai" },
+    { "tag": "Free", "title": "Machine Learning", "provider": "UC Berkeley", "price": "FREE", "url": "https://www.edx.org/course/machine-learning" },
+    { "tag": "Free", "title": "Introduction to Machine Learning", "provider": "NYU", "price": "FREE", "url": "https://www.edx.org/course/introduction-to-machine-learning" },
+    { "tag": "Paid", "title": "Artificial Intelligence A-Z", "provider": "Udemy", "price": "Subscription", "url": "https://www.udemy.com/course/artificial-intelligence-az/" },
+    { "tag": "Paid", "title": "Machine Learning A-Z", "provider": "Udemy", "price": "Subscription", "url": "https://www.udemy.com/course/machinelearning/" },
+    { "tag": "Beginner", "title": "Introduction to AI", "provider": "DataCamp", "price": "Subscription", "url": "https://www.datacamp.com/courses/introduction-to-ai" },
+    { "tag": "Beginner", "title": "AI Fundamentals", "provider": "DataCamp", "price": "Subscription", "url": "https://www.datacamp.com/tracks/ai-fundamentals" },
+    { "tag": "Paid", "title": "Build Chatbots with Python", "provider": "Codecademy", "price": "Subscription", "url": "https://www.codecademy.com/skill-path/build-chatbots-with-python" },
+    { "tag": "Professional", "title": "AI and Machine Learning", "provider": "Pluralsight", "price": "Subscription", "url": "https://www.pluralsight.com/paths/artificial-intelligence-machine-learning" }
   ]
 }
