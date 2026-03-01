@@ -1,0 +1,146 @@
+{
+  "jobs": [
+    {
+      "tag": "Remote",
+      "title": "AI Research Engineer",
+      "provider": "OpenAI",
+      "price": "Varies",
+      "url": "https://openai.com/careers"
+    },
+    {
+      "tag": "Remote",
+      "title": "Member of Technical Staff",
+      "provider": "Anthropic",
+      "price": "Varies",
+      "url": "https://www.anthropic.com/careers"
+    },
+    {
+      "tag": "Global",
+      "title": "Machine Learning Engineer",
+      "provider": "Hugging Face",
+      "price": "Varies",
+      "url": "https://huggingface.co/careers"
+    },
+    {
+      "tag": "Remote",
+      "title": "AI Training Expert",
+      "provider": "Scale AI",
+      "price": "Varies",
+      "url": "https://scale.com/careers"
+    },
+    {
+      "tag": "Remote",
+      "title": "Machine Learning Researcher",
+      "provider": "Cohere",
+      "price": "Varies",
+      "url": "https://cohere.com/careers"
+    },
+    {
+      "tag": "Remote",
+      "title": "AI Researcher",
+      "provider": "Midjourney",
+      "price": "Varies",
+      "url": "https://www.midjourney.com/careers"
+    },
+    {
+      "tag": "Online",
+      "title": "AI Developer",
+      "provider": "Turing",
+      "price": "Varies",
+      "url": "https://www.turing.com/jobs"
+    },
+    {
+      "tag": "Remote",
+      "title": "AI Trainer",
+      "provider": "Outlier AI",
+      "price": "Varies",
+      "url": "https://outlier.ai/"
+    },
+    {
+      "tag": "Remote",
+      "title": "Data Scientist",
+      "provider": "Databricks",
+      "price": "Varies",
+      "url": "https://www.databricks.com/company/careers"
+    },
+    {
+      "tag": "Remote",
+      "title": "AI Software Engineer",
+      "provider": "Perplexity",
+      "price": "Varies",
+      "url": "https://www.perplexity.ai/careers"
+    }
+  ],
+  "courses": [
+    {
+      "tag": "Beginner",
+      "title": "AI for Everyone",
+      "provider": "DeepLearning.AI",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/learn/ai-for-everyone"
+    },
+    {
+      "tag": "Advanced",
+      "title": "Machine Learning Specialization",
+      "provider": "Stanford University",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+    },
+    {
+      "tag": "University",
+      "title": "CS50's Introduction to Artificial Intelligence with Python",
+      "provider": "Harvard University",
+      "price": "FREE",
+      "url": "https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python"
+    },
+    {
+      "tag": "Professional",
+      "title": "Google AI Essentials",
+      "provider": "Google",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/professional-certificates/google-ai-essentials"
+    },
+    {
+      "tag": "Beginner",
+      "title": "Prompt Engineering for ChatGPT",
+      "provider": "Vanderbilt University",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/learn/prompt-engineering"
+    },
+    {
+      "tag": "Professional",
+      "title": "IBM Applied AI Professional Certificate",
+      "provider": "IBM",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
+    },
+    {
+      "tag": "Advanced",
+      "title": "Deep Learning Specialization",
+      "provider": "DeepLearning.AI",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/specializations/deep-learning"
+    },
+    {
+      "tag": "Paid",
+      "title": "Artificial Intelligence A-Z",
+      "provider": "Udemy",
+      "price": "Subscription",
+      "url": "https://www.udemy.com/course/artificial-intelligence-az/"
+    },
+    {
+      "tag": "Free",
+      "title": "Introduction to Generative AI",
+      "provider": "Google Cloud",
+      "price": "FREE",
+      "url": "https://www.cloudskillsboost.google/course_templates/536"
+    },
+    {
+      "tag": "Advanced",
+      "title": "Generative AI with Large Language Models",
+      "provider": "AWS",
+      "price": "Subscription",
+      "url": "https://www.coursera.org/learn/generative-ai-with-llms"
+    }
+  ]
+}
